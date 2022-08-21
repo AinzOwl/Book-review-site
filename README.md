@@ -1,7 +1,7 @@
 # Book-review-site
 
 ## About
-Web app written i vanilla php, html, css and js. There you can add, read and review books 
+Web app written in vanilla php, html, css and js. There you can add, read and review books 
 
 (still in development)
 
